@@ -60,7 +60,7 @@ public final class MyClient
     }
 }
 
-// command to create '.class' file inside the package 'Messenger' :
+// command to create '.class' file inside the package 'Messenger' inside your current directory :
 // javac MyClient.java -d .
 // -d : directory
 // . : current directory
